@@ -1,7 +1,7 @@
 # SealPHP 
 
 ![Build Status](https://travis-ci.org/Z-Team-Pro/sealphp.svg?branch=master)
-
+![LICENCE](https://img.shields.io/github/license/sealphp/SealFramework?style=plastic)
 
 SEAL PHP is a framework for learning purpose only, We want to build our own framework to help us to know the internal infrastructure of modern frameworks and how to build ,contribute and work in open source projects!
 ## Installation   "not yet"
